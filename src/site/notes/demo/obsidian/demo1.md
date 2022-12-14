@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/demo/obsidian/demo1/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/demo/obsidian/demo1/"}
 ---
+
 
 # 前言
 > 在从事与计算机相关的工作时，我们有很多触手可及的工具可以帮助我们更高效的解决问题。 但是我们中的大多数人实际上只利用了这些工具中的很少一部分，我们常常只是死记硬背一些如咒语般的命令， 或是当我们卡住的时候，盲目地从网上复制粘贴一些命令。
